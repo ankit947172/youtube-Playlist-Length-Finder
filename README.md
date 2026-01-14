@@ -1,6 +1,6 @@
 # 🎥 YouTube Playlist Length 📊
 
-Analyze YouTube playlists and videos with ease! Get detailed information about video durations and playlist lengths. It is hosted on [render.com](https://render.com/) and you can check it out [here](https://ytplaylist-len.sharats.dev/).
+Analyze YouTube playlists and videos with ease! Get detailed information about video durations and playlist lengths.
 
 ## 🌟 Features
 
@@ -19,9 +19,7 @@ Analyze YouTube playlists and videos with ease! Get detailed information about v
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sharatsachin/ytplaylist-len.git
-   cd ytplaylist-len
-   ```
+   git clone https://github.com/ankit947172/youtube-Playlist-Length-Finder/
 
 2. Install dependencies:
    ```
@@ -62,4 +60,3 @@ I'm actually not looking for contributions to this repository, and I won't be ac
 - [Render](https://render.com/)
 - [Halfmoon](https://www.gethalfmoon.com/)
 
-Made with ❤️ by [Sharat Sachin](https://github.com/sharatsachin)
